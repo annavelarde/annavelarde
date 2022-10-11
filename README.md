@@ -1,6 +1,5 @@
-### Hello World, I'm Anna 👩‍💻
+### Hello World, I'm Anna 👩‍💻 a Web Developer!!
 
-# I'm a Web Developer!!
  * ✍ You can find my projects here portfolio.
  * 🔭 I’m currently working on some gaming app.
  * 🌱 I’m currently learning more about MERN.
