@@ -7,3 +7,4 @@ I'm a Web Developer!!
 💬 Ask me about ... Anything
 
 ⚡ Fun fact: I speak 3 languages ( English, Spanish, Catalan)
+
