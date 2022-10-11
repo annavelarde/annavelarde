@@ -21,12 +21,7 @@
 </br>
 </br>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Anna Velarde's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=annavelarde&show_icons=true&hide_border=true" />
-
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
