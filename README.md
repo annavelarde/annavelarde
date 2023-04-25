@@ -15,7 +15,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="TypeScript.js" width="26px" src="<img align="left" alt="Node.js" width="26px" src="https://user-images.githubusercontent.com/86557251/234390567-7bc107da-2bce-451c-a2a8-8d48ee7e1795.png" />
+<img align="left" alt="TypeScript.js" width="26px" src="<img align="left" alt="Node.js" width="26px" src="https://www.pngwing.com/en/free-png-huplz" />
 
 </br>
 </br>
